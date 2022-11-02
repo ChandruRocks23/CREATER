@@ -1,0 +1,79 @@
+class Find1
+{
+public static void main(String[] args)
+{
+Find1 pb = new Find1();
+pb.count();
+}
+public void count()
+{
+int num =1;
+while(num<=9)
+{
+System.out.println(num+" ");
+num= num +2;
+}
+}
+}
+
+task 2
+
+class Find2
+{
+public static void main(String[] args)
+{
+Find2 pb = new Find2();
+pb.count();
+}
+public void count()
+{
+int num =0:
+while(num<=8)
+{
+System.out.println(num+" ");
+num= num +2;
+}
+}
+}
+
+task 3
+
+class Find3
+{
+public static void main(String[] args)
+{
+Find3 pb = new Find3();
+pb.count();
+}
+public void count()
+{
+int num =3;
+while(num<=15)
+{
+System.out.println(num+" ");
+num= num +3;
+}
+}
+}
+
+task4
+
+class Find4
+{
+public static void main(String[] args)
+{
+Find4 pb = new Find4();
+pb.count();
+}
+public void count()
+{
+int num =25;
+while(num>=5)
+{
+System.out.println(num+" ");
+num= num -5;
+}
+}
+}
+
+
